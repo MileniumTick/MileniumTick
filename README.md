@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MileniumTick
 - 👀 I’m interested in New technologies like NodeJs or Bun
-- 🌱 I’m currently learning Back End and Front End technologiesd
+- 🌱 I’m currently learning Back End and Front End technologies
 - 💞️ I’m looking to collaborate on big projects for my companie
 - 📫 How to reach me josuechavarria98@gmail.com
 
