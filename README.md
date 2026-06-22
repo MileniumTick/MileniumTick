@@ -2,70 +2,68 @@
 
 # Josué Chavarría Montealegre
 
-**`@MileniumTick`**
+<sub>aka **@MileniumTick** — porque el nick de los 14 se queda para siempre</sub>
+
+---
 
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 
-[![Email](https://img.shields.io/badge/josuechavarria98@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:josuechavarria98@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-MileniumTick-181717?style=flat-square&logo=github)](https://github.com/MileniumTick)
-
----
+josuechavarria98@gmail.com · [github.com/MileniumTick](https://github.com/MileniumTick)
 
 </div>
 
-## 👨‍💻 Sobre mí
+## 👋
 
-Full-stack developer en **Istmo Center** 🇨🇷. Construyo sistemas que van desde apps de campo con PostGIS hasta multiplexores de AI. Prefiero código mínimo que funcione — soy creador de [pi-ponytail](https://github.com/MileniumTick/pi-ponytail), modo YAGNI para asistentes de código.
+Tico, full-stack dev en **Istmo Center**. Escribo código que va desde apps en el campo costarricense midiendo calles con PostGIS hasta multiplexores de AI que te dejan usar tus propios providers en cualquier CLI.
 
-- 🔭 **Actualmente**: [aimux](https://github.com/MileniumTick/aimux) — AI Provider Multiplexer (Go + Bubbletea)
-- 🏗️ **Sistemas críticos**: [rvm-sistema](https://github.com/MileniumTick/rvm-sistema) — inventario vial multi-cantón con PostGIS
-- 🧪 **Explorando**: Rust, Go, infraestructura cloud, automatización
-- 🎯 **Filosofía**: menos código > más código. Stdlib primero. Nada especulativo.
-- 📍 **Desde**: Costa Rica
+Aprendí a mi manera — viendo, rompiendo, arreglando. Pasé de VB.NET y C# a Go, Rust, y construir mi propia TUI porque no encontraba una herramienta que hiciera lo que quería. Eso es **aimux** hoy.
 
-## 🛠️ Stack
+Me obsesiona el código mínimo. Tanto que le hice [un modo completo a pi](https://github.com/MileniumTick/pi-ponytail) para que sea agresivamente vago: stdlib primero, nada especulativo, si no hace falta no existe.
 
-| Área | Tecnologías |
-|------|-------------|
-| **Backend** | Go, Node.js, Python, Rust |
-| **Frontend** | React, TypeScript, Astro, Tailwind |
-| **Mobile** | React Native (Expo) |
-| **DB & GIS** | PostgreSQL, PostGIS, SQLite | 
-| **Infra** | Docker, Kubernetes, CI/CD |
-| **AI/LLM** | API multiplexing, provider routing, model discovery |
-| **TUI** | Bubbletea, Lipgloss |
+## 🛠️ Cosas con las que trabajo
 
-## 📌 Proyectos destacados
+**Backend**: Go, Node, Python, Rust — lo que mejor calce
+**Frontend**: React, TypeScript, Astro, Tailwind
+**Mobile**: React Native con Expo
+**DB y mapas**: PostgreSQL, PostGIS, SQLite
+**Infra**: Docker, K8s, CI/CD que no estorbe
+**AI**: Routing de providers, descubrimiento de modelos, multiplexing
+**TUIs**: Bubbletea, Lipgloss — terminal > GUI para herramientas de dev
 
-| Proyecto | Stack | Descripción |
-|----------|-------|-------------|
-| [**aimux**](https://github.com/MileniumTick/aimux) 🏆 | Go + Bubbletea | Multiplexor de providers AI. TUI para centralizar APIs de Anthropic, OpenAI, Gemini y bindearlas a Claude Code, Copilot, pi, Codex, OpenCode. Un binario. |
-| [**rvm-sistema**](https://github.com/MileniumTick/rvm-sistema) | Go + React Native + PostGIS | Sistema de inventario vial municipal. Multi-cantón, formularios dinámicos JSON Schema, cumplimiento Decreto 38578-MOPT. |
-| [**pi-ponytail**](https://github.com/MileniumTick/pi-ponytail) | TypeScript | Modo Ponytail para pi: YAGNI, stdlib first, mínimo código viable. |
-| [**IronSys**](https://github.com/MileniumTick/IronSys) | TypeScript/Node | Sistema de gestión interno. |
-| [**polymarket**](https://github.com/MileniumTick/polymarket) | Rust | Bot de arbitraje para Polymarket. |
-| [**finance-existence**](https://github.com/MileniumTick/finance-existence) | TypeScript + Python | Gestión de finanzas personales. |
+## 📦 Lo que tengo público
 
-## 📊 Stats
+| Proyecto | Stack | Qué es |
+|----------|-------|--------|
+| [**aimux**](https://github.com/MileniumTick/aimux) 🏆 | Go + Bubbletea | Multiplexor de providers AI. Una TUI para manejar APIs de Anthropic, OpenAI, Gemini y bindearlas a Claude Code, Copilot, pi, Codex u OpenCode. Todo en un binario. Lo armé porque me harté de editar JSON a mano. |
+| [**rvm-sistema**](https://github.com/MileniumTick/rvm-sistema) 🤫 | Go + React Native + PostGIS | Inventario vial multi-cantón. Formularios dinámicos que cambian cuando MOPT cambia las reglas — sin recompilar. Cumple Decreto 38578. |
+| [**pi-ponytail**](https://github.com/MileniumTick/pi-ponytail) | TypeScript | Modo ponytail para pi: YAGNI, stdlib primero, el código que no escribís no se rompe. |
+| [**polymarket**](https://github.com/MileniumTick/polymarket) | Rust | Bot de arbitraje para Polymarket. Porque Rust Tool. |
+| [**fortamuni_landing**](https://github.com/MileniumTick/fortamuni_landing) | Astro | Landing page para municipalidad. |
+| [**lazyvim_config**](https://github.com/MileniumTick/lazyvim_config) | Lua | Mi config de Neovim. Porque siempre la rompo y la llevo de respaldo. |
+
+## 📊 Stats de lo público nomás
+
+<sup>(sin contar repos privados del trabajo — esos no son míos)</sup>
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MileniumTick&show_icons=true&theme=dark&hide_border=true)
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MileniumTick&layout=compact&theme=dark&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MileniumTick&show_icons=true&theme=dark&hide_border=true&count_private=false&show=reviews,discussions_answered)
+![Lenguajes públicos](https://github-readme-stats.vercel.app/api/top-langs/?username=MileniumTick&layout=compact&theme=dark&hide_border=true&count_private=false)
 
 </div>
 
-## 📫 Contacto
+## 📫
 
-- **Email**: [josuechavarria98@gmail.com](mailto:josuechavarria98@gmail.com)
+Si querés hablar de código, AI, infra, o por qué Go está infravalorado para TUIs:
+- **Personal**: [josuechavarria98@gmail.com](mailto:josuechavarria98@gmail.com)
 - **Trabajo**: jchavarriam@istmocenter.com
 - **GitHub**: [github.com/MileniumTick](https://github.com/MileniumTick)
 
 ---
 
 <div align="center">
-<sub>Hecho en 🇨🇷 · Código mínimo que funciona.</sub>
+<sub>🇨🇷 · Código mínimo, café bien cargado.</sub>
 </div>
