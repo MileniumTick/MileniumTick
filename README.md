@@ -1,6 +1,6 @@
 # @MileniumTick
 
-> Tico, dev en **Istmo Center**. Escribo sistemas con Go, TypeScript, Rust y PostGIS.
+> Tico. Desarrollador de sistemas con Go, TypeScript, Rust y PostGIS.
 > Cosas que van desde apps de campo midiendo calles hasta multiplexores de AI.
 
 ---
@@ -44,7 +44,7 @@ a Claude Code, Copilot, pi, Codex u OpenCode. Un solo binario, backups automáti
 | Proyecto | Stack | Qué es |
 |----------|-------|--------|
 | [pi-ponytail](https://github.com/MileniumTick/pi-ponytail) | TypeScript | Modo de código mínimo para pi (concepto ponytail — no lo inventé yo). |
-| [polymarket](https://github.com/MileniumTick/polymarket) | Rust | Bot de arbitraje para Polymarket. |
+| [advantage360-manager](https://github.com/MileniumTick/advantage360-manager) | Rust | Configura el teclado Kinesis Advantage360 SmartSet desde Linux: GUI GTK4 y TUI sobre un mismo core. |
 | [fortamuni_landing](https://github.com/MileniumTick/fortamuni_landing) | Astro | Landing page municipal. |
 | [lazyvim_config](https://github.com/MileniumTick/lazyvim_config) | Lua | Config de Neovim. |
 
